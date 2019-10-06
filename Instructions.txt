@@ -1,0 +1,14 @@
+Instructions:
+
+Requirements: NodeJS, Mysql Database
+
+1. Make a mysql database locally with following details:
+DB Name: next
+
+2. A sql file provided must be imported for the table structure (table name: data).
+
+3. Add mysql details into the root>server.js file localhost, username and password.
+
+4. Once details are added you can start the server by opening command prompt under main root directory with: "npm run dev"
+
+5. Once server is started, open "http://localhost:4000/" in browser to see the running application.
